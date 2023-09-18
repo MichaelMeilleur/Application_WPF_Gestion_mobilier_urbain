@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\1920px-Montreal_logo.svg.png" />
+    <None Remove="Images\check.png" />
+    <None Remove="Images\québec-logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\1920px-Montreal_logo.svg.png" />
+    <Resource Include="Images\check.png" />
+    <Resource Include="Images\québec-logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="mobilierurbaingp.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

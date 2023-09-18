@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TP3.Models.FiltresUtilisateur" Collapsed="true">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Models\FiltresUtilisateur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP3.Models.MyEnums" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="TP3.Models.MyEnums.Inst_Inspect" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\Mobilier.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mobilier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP3.Models.Rootobject" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAIBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mobilier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP3.Models.Crs" Collapsed="true">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mobilier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP3.Models.Properties" Collapsed="true">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mobilier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP3.Models.Feature" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mobilier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP3.Models.Properties1" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAAAEAACAAAAAAACgBIAFAQAAAACAMAEgAEAAAYAA=</HashCode>
+      <FileName>Models\Mobilier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP3.Models.Geometry" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mobilier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP3.Models.Mobilier" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Models\Mobilier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP3.Models.Filtres" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAACMAAAAACACAEEABAACQCAAAAAABAAAA=</HashCode>
+      <FileName>Models\Mobilier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP3.Models.MaListe" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mobilier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
